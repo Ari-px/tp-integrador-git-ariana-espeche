@@ -10,7 +10,7 @@
 
 - Repositorio de GitHub: https://github.com/Ari-px/tp-integrador-git-ariana-espeche
 - Issue: https://github.com/Ari-px/tp-integrador-git-ariana-espeche/issues/1
-- Pull request: https://github.com/Ari-px/tp-integrador-git-ariana-espeche/pull/1
+- Pull request: https://github.com/Ari-px/tp-integrador-git-ariana-espeche/pull/2
 
 ## Comandos principales utilizados
 
