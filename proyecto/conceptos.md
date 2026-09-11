@@ -19,3 +19,7 @@ Un archivo es una unidad de información almacenada digitalmente que puede conte
 ## Carpeta
 
 Una carpeta permite organizar y agrupar archivos de manera ordenada dentro de un sistema.
+
+## Importancia de la organización digital
+
+Mantener los archivos y carpetas organizados facilita la búsqueda de información y permite trabajar de manera más ordenada.
