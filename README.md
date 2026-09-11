@@ -21,4 +21,5 @@ Ariana Espeche
 
 ## Estado del proyecto
 
-En desarrollo.
+
+En desarrollo. El repositorio se encuentra en proceso de construcción y documentación mediante Git y GitHub.
