@@ -35,3 +35,13 @@ Permite integrar los cambios de una rama con otra.
 ## git pull
 
 Permite actualizar el repositorio local con los cambios existentes en el repositorio remoto.
+
+## Comandos para consultar cambios
+
+### git diff
+
+Permite visualizar las diferencias entre los cambios realizados en los archivos.
+
+### git show
+
+Permite consultar información y cambios correspondientes a un commit específico.
