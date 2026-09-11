@@ -10,10 +10,16 @@ El objetivo del proyecto es recopilar conceptos básicos de informática y algun
 
 ## Estructura del repositorio
 
-* `README.md`: contiene la descripción general, objetivo y estructura del proyecto.
-* `ENTREGA.md`: registra el proceso realizado durante el trabajo práctico.
-* `proyecto/conceptos.md`: contiene conceptos básicos de informática.
-* `proyecto/comandos.md`: contiene una lista de comandos útiles.
+
+El repositorio está organizado de la siguiente manera:
+
+- `README.md`: contiene la descripción general, el objetivo, la estructura y el estado del proyecto.
+- `ENTREGA.md`: registra el proceso realizado durante el trabajo práctico, los comandos utilizados y las dificultades encontradas.
+- `proyecto/`: contiene los materiales principales de la guía.
+- `proyecto/conceptos.md`: contiene conceptos básicos relacionados con la informática.
+- `proyecto/comandos.md`: contiene una explicación de comandos básicos utilizados con Git.
+
+Esta organización permite separar la documentación general del proyecto de los contenidos específicos de la guía.
 
 ## Autor
 
